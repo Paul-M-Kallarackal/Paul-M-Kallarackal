@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons and Projects**
 
-- 👨‍💻 All of my projects are available at [www.paulmkallarackal.com](www.paulmkallarackal.com)
+<!-- - 👨‍💻 All of my projects are available at [Website](www.paulmkallarackal.com) -->
 
 - 💬 Ask me about **the latest tech news**
 
