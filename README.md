@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/paulmkallarackal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulmkallarackal" /></a></p><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-m-kallarackal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="paul-m-kallarackal" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-m-kallarackal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="paul-m-kallarackal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul-m-kallarackal&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=3600&locale=en" alt="paul-m-kallarackal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-m-kallarackal&theme=dark" alt="paul-m-kallarackal" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-m-kallarackal&theme=dark" alt="paul-m-kallarackal" /></p>
