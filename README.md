@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **the latest tech news**
 
-- ⚡ Fun fact **I can hit 100 wpm on monkeytype**
+- ⚡ Fun fact **I can hit 100 wpm on MonkeyType**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-m-kallarackal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="paul-m-kallarackal" /></p>
 
