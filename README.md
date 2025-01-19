@@ -7,7 +7,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-m-kallarackal&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="paul-m-kallarackal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-m-kallarackal&theme=dark" alt="paul-m-kallarackal" /></p>
-
 
 
