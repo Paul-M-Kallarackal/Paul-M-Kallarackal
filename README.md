@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- 🩸 **[BlueBlood](https://github.com/Paul-M-Kallarackal/BlueBlood)** — Daily Product Hunt scout: auto-fetches top launches, classifies by workspace context, delivers via WhatsApp through OpenClaw
 - 🖱️ **[Carbo](https://github.com/Paul-M-Kallarackal/Carbo)** — Logitech MX Master 4 plugin: AI command center with Claude Code, founder workflows, and haptic time tracking
 - 🎨 **[FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen)** — Terminal CLI for AI wallpaper generation using Gemini + Flux
 - 💼 **[LAR](https://lma.moriatz.com)** — Loan Document Automation with Voice AI and Compliance Checks
