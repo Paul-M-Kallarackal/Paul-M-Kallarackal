@@ -18,7 +18,7 @@
 - 🩸 **[BlueBlood](https://github.com/Paul-M-Kallarackal/BlueBlood)** — Daily Product Hunt scout: auto-fetches top launches, classifies by workspace context, delivers via WhatsApp through OpenClaw
 - 🥜 **[Jam Projects Showcase](https://github.com/Paul-M-Kallarackal/jam-projects-showcase)** — Daily-updated builder directory sourced from Discord — Next.js + Supabase + shadcn/ui
 - **PaulClaw / HeartTap Discord Ops** - Discord-routed OpenClaw agent for HeartTap work: inspecting Flutter themes, generating visual swatches, and sending quick product/debug feedback back into Discord
-- **[HeartTap](https://github.com/moriatz-labs/heart-tap)** - Private Flutter widget product for one important person; a Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets
+- **[HeartTap](https://hearttap.moriatz.com)** - Private Flutter widget product for one important person; a Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets
 - **Children Stories Agent** - WhatsApp-routed OpenClaw agent for a private family group that plans children's storybooks, remembers characters/style, generates cover/page illustrations, and sends images back to WhatsApp
 - 🖱️ **[Carbo](https://github.com/Paul-M-Kallarackal/Carbo)** — Logitech MX Master 4 plugin: AI command center with Claude Code, founder workflows, and haptic time tracking
 - 🎨 **[FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen)** — Terminal CLI for AI wallpaper generation using Gemini + Flux
