@@ -54,15 +54,6 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 - [Published IEEE paper](https://ieeexplore.ieee.org/document/10465780/) on biomechanical analysis of electric scooters.
 - IIT Madras B.S. in Data Science and Applications with a 9.12 CGPA.
 
-## GitHub stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Paul-M-Kallarackal&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Paul's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-M-Kallarackal&layout=compact&hide_border=true&langs_count=8" alt="Paul's most-used languages" />
-</p>
-
-![GitHub contribution graph](https://ghchart.rshah.org/Paul-M-Kallarackal)
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/Paul-M-Kallarackal) | [GitHub](https://github.com/Paul-M-Kallarackal)
