@@ -1,0 +1,19 @@
+name: README quality
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: readme-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate profile README
+        shell: pwsh
+        run: ./scripts/validate-readme.ps1
