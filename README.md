@@ -1,6 +1,6 @@
-# Hi, I'm Paul 👋
+# Hi, I'm Paul
 
-📍 **Chennai ↔ Kerala** | 🏢 **Founding Engineer @Stealth-SurveySparrow** | 👨‍💻 **5+ Hackathons Won**
+Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons won
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -9,57 +9,71 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
----
 
-> All In on building/shipping quickly and iterating. Currently, optimizing code quality with feature velocity.
+> All in on building, shipping quickly, and iterating. Currently optimizing code quality without sacrificing feature velocity.
 
-## Current Projects
+## Current projects
 
-- 🩸 **[BlueBlood](https://github.com/Paul-M-Kallarackal/BlueBlood)** — Daily Product Hunt scout: auto-fetches top launches, classifies by workspace context, delivers via WhatsApp through OpenClaw
-- 🥜 **[Jam Projects Showcase](https://github.com/Paul-M-Kallarackal/jam-projects-showcase)** — Daily-updated builder directory sourced from Discord — Next.js + Supabase + shadcn/ui
-- **PaulClaw / HeartTap Discord Ops** - Discord-routed OpenClaw agent for HeartTap work: inspecting Flutter themes, generating visual swatches, and sending quick product/debug feedback back into Discord
-- **[HeartTap](https://hearttap.moriatz.com)** - Private Flutter widget product for one important person; a Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets
-- **Children Stories Agent** - WhatsApp-routed OpenClaw agent for a private family group that plans children's storybooks, remembers characters/style, generates cover/page illustrations, and sends images back to WhatsApp
-- 🖱️ **[Carbo](https://github.com/Paul-M-Kallarackal/Carbo)** — Logitech MX Master 4 plugin: AI command center with Claude Code, founder workflows, and haptic time tracking
-- 🎨 **[FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen)** — Terminal CLI for AI wallpaper generation using Gemini + Flux
-- 💼 **[LAR](https://lma.moriatz.com)** — Loan Document Automation with Voice AI and Compliance Checks
+- [BlueBlood](https://github.com/Paul-M-Kallarackal/BlueBlood) — Daily Product Hunt scout that classifies launches by workspace context and delivers them through WhatsApp and OpenClaw.
+- [Jam Projects Showcase](https://github.com/Paul-M-Kallarackal/jam-projects-showcase) — Daily-updated builder directory sourced from Discord, built with Next.js, Supabase, and shadcn/ui.
+- [Paul's Portfolio](https://paul.moriatz.com/) — My portfolio and writing, built from a reusable design system and deployed on Vercel. [Source](https://github.com/Paul-M-Kallarackal/portfolio).
+- [Paul's Design System](https://github.com/Paul-M-Kallarackal/design-system) — Reusable components, themes, patterns, quality gates, and documentation shared across my web projects.
+- PaulClaw / HeartTap Discord Ops — Discord-routed OpenClaw agent for inspecting Flutter themes, generating visual swatches, and returning product and debugging feedback.
+- [HeartTap](https://hearttap.moriatz.com/) — Private Flutter product and Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets. [Website source](https://github.com/Paul-M-Kallarackal/hearttap-website).
+- Children Stories Agent — WhatsApp-routed OpenClaw agent for a private family group that plans stories, remembers characters and visual style, generates illustrations, and sends finished images back to WhatsApp.
+- [Carbo](https://github.com/Paul-M-Kallarackal/Carbo) — Logitech MX Master 4 plugin with AI commands, founder workflows, and haptic time tracking.
+- [FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen) — Terminal CLI for AI wallpaper generation using Gemini and Flux.
+- [LAR](https://lma.moriatz.com/) — Loan document automation with voice AI and compliance checks.
 
-### Legacy Work
-- 🚇 **[Entia](https://devpost.com/software/tse)** — Adobe Express Add-On for Video Analytics
-- 🎚️ **[LitFlow](https://devpost.com/software/litflow)** — AI Literature Review Research and Analysis
-- 🚀 **[Marchina](https://github.com/microsoft/AI_Agents_Hackathon/issues/268)** — Chat Context AI Mermaid Diagram Generator
-- ✨ **[MS-Project-Auto-Tagger](https://github.com/multispark/gh-repo-auto-tag)** — Auto-tag MS Hack Projects
-- 👉 **[GitExplore](https://devpost.com/software/gitexplore)** — Knowledge Graph based GitHub Search & Discovery
+## Recent build sessions
+
+<!-- SESSION_LOG_START -->
+### July 11, 2026
+
+- [Design system](https://github.com/Paul-M-Kallarackal/design-system): consolidated repository guidance, prioritized external craft and quality skills, removed duplicated documentation logic, and kept the full quality gate passing.
+- [Design system PR #8](https://github.com/Paul-M-Kallarackal/design-system/pull/8): removed the additional-components catalog and retained focused component headings with regression coverage.
+- [Design system PR #11](https://github.com/Paul-M-Kallarackal/design-system/pull/11): shipped a searchable icon catalog, ignored local Codex state, and cleaned up merged branches.
+- [Design system PR #14](https://github.com/Paul-M-Kallarackal/design-system/pull/14): shipped component documentation polish after all repository checks passed.
+- [Design system PR #15](https://github.com/Paul-M-Kallarackal/design-system/pull/15): shipped a Material 3-inspired signature card and added the repository's standard branch, PR, merge, and cleanup delivery flow.
+- [Design system PR #18](https://github.com/Paul-M-Kallarackal/design-system/pull/18): standardized compact navbar-to-content spacing across editorial page shells.
+- [Portfolio PR #9](https://github.com/Paul-M-Kallarackal/portfolio/pull/9): deployed the amber design-system navbar and compact hero spacing to [paul.moriatz.com](https://paul.moriatz.com/).
+- [Portfolio](https://github.com/Paul-M-Kallarackal/portfolio): completed local blog polish with monochrome tags, wider article cards, and labeled GitHub and Devpost actions; this work remains local and is not yet deployed.
+<!-- SESSION_LOG_END -->
+
+## Legacy work
+
+- [Entia](https://devpost.com/software/tse) — Adobe Express add-on for video analytics.
+- [LitFlow](https://devpost.com/software/litflow) — AI literature review research and analysis.
+- [Marchina](https://github.com/microsoft/AI_Agents_Hackathon/issues/268) — Chat-context Mermaid diagram generator.
+- [MS Project Auto Tagger](https://github.com/multispark/gh-repo-auto-tag) — Automated tagging for Microsoft hackathon projects.
+- [GitExplore](https://devpost.com/software/gitexplore) — Knowledge-graph-based GitHub search and discovery.
 
 ## Highlights
 
-🏆 **5x Hackathon Winner** — including [$5,000 Devpost India (Entia)](https://devpost.com/software/tse) and [$1,000 Devpost (GitExplore)](https://devpost.com/software/gitexplore)
-📄 **[Published IEEE Paper](https://ieeexplore.ieee.org/document/10465780/)** — Biomechanical analysis of electric scooters
-🎓 **IIT Madras** — B.S. Data Science & Applications (9.12 CGPA)
+- 5-time hackathon winner, including [$5,000 Devpost India for Entia](https://devpost.com/software/tse) and [$1,000 Devpost for GitExplore](https://devpost.com/software/gitexplore).
+- [Published IEEE paper](https://ieeexplore.ieee.org/document/10465780/) on biomechanical analysis of electric scooters.
+- IIT Madras B.S. in Data Science and Applications with a 9.12 CGPA.
 
-## GitHub Stats
+## GitHub stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Paul-M-Kallarackal&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-M-Kallarackal&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Paul-M-Kallarackal&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Paul's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-M-Kallarackal&layout=compact&hide_border=true&langs_count=8" alt="Paul's most-used languages" />
 </p>
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Paul-M-Kallarackal)
+![GitHub contribution graph](https://ghchart.rshah.org/Paul-M-Kallarackal)
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Paul-M-Kallarackal)
-[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Paul-M-Kallarackal)
-
----
+[LinkedIn](https://www.linkedin.com/in/Paul-M-Kallarackal) | [GitHub](https://github.com/Paul-M-Kallarackal)
 
 <details>
-<summary>Random Facts</summary>
+<summary>Random facts</summary>
 
-- Consistent 90-100 wpm on MonkeyType
-- Inspired by  [Michael Reeves](https://en.wikipedia.org/wiki/Michael_Reeves_(YouTuber)) and [Kailash Nadh](https://nadh.in/)
-- TFT Emerald
-- League Platinum
-- Wrote a ficton when I was 9. 
-- Hit me up for Chess, Table Tennis, Badminton, Hackathons if youre in/around Chennai. 
+- Consistent 90–100 wpm on Monkeytype.
+- Inspired by [Michael Reeves](https://en.wikipedia.org/wiki/Michael_Reeves_(YouTuber)) and [Kailash Nadh](https://nadh.in/).
+- TFT Emerald and League Platinum.
+- Wrote fiction when I was nine.
+- Always interested in chess, table tennis, badminton, and hackathons around Chennai.
+
 </details>
