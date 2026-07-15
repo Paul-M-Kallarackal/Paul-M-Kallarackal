@@ -28,6 +28,13 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 16, 2026
+
+- Design system: advanced the day-2 review batch for Box, Flex, Separator, Text, and Heading by adding dedicated review surfaces, tightening foundation primitives, and simplifying the Text API; open PR [#29](https://github.com/Paul-M-Kallarackal/design-system/pull/29) is up with passing checks.
+- Portfolio: continued the local knowledge-pipeline and content curation refactor across projects and blog data; no new public deployment was verified after the July 11 navbar release.
+- Current work: design-system review feedback and portfolio content curation are still active, and both streams remain separate from shipped portfolio changes.
+- Learning: explicit review surfaces plus slimmer typography primitives make component batches easier to validate without widening the public API unnecessarily.
+
 ### July 15, 2026
 
 - Design system: prepared the next five-component review batch for Box, Flex, Separator, Text, and Heading; local quality and browser checks passed, and the batch is waiting for approval before merge.
