@@ -30,10 +30,10 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 <!-- SESSION_LOG_START -->
 ### July 16, 2026
 
-- Design system: advanced the day-2 review batch for Box, Flex, Separator, Text, and Heading by adding dedicated review surfaces, tightening foundation primitives, and simplifying the Text API; this work remains in review and no public merge was verified.
-- Portfolio: continued the local knowledge-pipeline and content curation refactor across projects and blog data; no new public deployment was verified after the July 11 navbar release.
-- Current work: design-system review feedback and portfolio content curation are still active, and both streams remain separate from shipped portfolio changes.
-- Learning: explicit review surfaces plus slimmer typography primitives make component batches easier to validate without widening the public API unnecessarily.
+- Design system: shipped the July 16 review-and-docs cleanup pass by merging [#30](https://github.com/Paul-M-Kallarackal/design-system/pull/30), [#32](https://github.com/Paul-M-Kallarackal/design-system/pull/32), and [#33](https://github.com/Paul-M-Kallarackal/design-system/pull/33), covering the day-3 review refinements plus a tighter core-component docs surface.
+- Portfolio: continued a local restructure around case-study-driven project storytelling, blog/page composition, and knowledge-pipeline cleanup; no new public deployment was verified after the July 11 release on [paul.moriatz.com](https://paul.moriatz.com/).
+- Current work: portfolio content curation and page architecture remain active and local; the design-system cleanup is publicly merged.
+- Learning: trimming docs and review surfaces back to the core component set reduces maintenance overhead and makes review batches easier to close cleanly.
 
 ### July 15, 2026
 
