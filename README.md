@@ -58,7 +58,7 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 
 ### July 16, 2026
 
-- Design system: shipped the July 16 review-and-docs cleanup pass by merging [#30](https://github.com/Paul-M-Kallarackal/design-system/pull/30), [#32](https://github.com/Paul-M-Kallarackal/design-system/pull/32), and [#33](https://github.com/Paul-M-Kallarackal/design-system/pull/33), covering the day-3 review refinements plus a tighter core-component docs surface.
+- Design system: shipped the July 16 review-and-docs cleanup pass, covering the day-3 review refinements plus a tighter core-component docs surface.
 - Portfolio: continued a local restructure around case-study-driven project storytelling, blog/page composition, and knowledge-pipeline cleanup; no new public deployment was verified after the July 11 release on [paul.moriatz.com](https://paul.moriatz.com/).
 - Current work: portfolio content curation and page architecture remain active and local; the design-system cleanup is publicly merged.
 - Learning: trimming docs and review surfaces back to the core component set reduces maintenance overhead and makes review batches easier to close cleanly.
