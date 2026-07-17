@@ -30,6 +30,32 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 17, 2026
+
+**Shipped**
+
+- [Birthday Tracker](https://birthdaytracker.moriatz.com/) reached production as a focused, private calendar utility built on my shared design system. The release includes magic-link-only authentication through Hostinger Mail, add/edit/delete flows, a daily 6:00 AM IST birthday digest, retry-safe cron behavior, responsive layouts, RLS coverage, and production smoke checks across mobile and desktop widths.
+- Design system: merged and deployed four focused releases covering six corrected White, Black, Amber, Light Green, Postman Red, and Purple ramps; a compact border-free color table; a single-trigger DatePicker fix; and consistent white overview action buttons. The final releases passed the repository quality pipeline, 22 browser scenarios, accessibility checks, Lighthouse, and production deployment checks.
+
+**Completed locally or ready for review**
+
+- [People Aggregator](https://people.moriatz.com/): completed 15 dashboard usability improvements around research health, full-profile search, keyboard shortcuts, counted filters, review-state sorting, URL-persisted views, profile-completeness signals, progressive results, retry states, and accessible announcements. Lint, builds, 86 tests, four-width browser coverage, and all 33 Supabase RLS tests pass; a separate pre-existing VSCD design-system migration gap still blocks a release claim.
+- [Paul's Portfolio](https://paul.moriatz.com/): built a local interactive hero that rotates through the design system, People Aggregator, HeartTap, and Birthday Tracker using four optimized generated product visuals. The selector supports mouse and keyboard input, autoplay, pause-on-interaction, live captions, direct links, and reduced motion; build, lint, console, overflow, and responsive checks pass, but this broader portfolio work remains uncommitted and undeployed.
+- Design system: completed and pushed a tokenized Button and IconButton redesign with canonical palette tones, theme-aware defaults, exact size and padding tokens, accessible icon tooltips, compatibility aliases, documentation playgrounds, and light/dark review matrices. The full quality gate, 26 unit tests, and 23 browser tests pass; the branch is intentionally unmerged while it waits for visual review.
+- [Entia](https://devpost.com/software/tse): built a package-ready Adobe Express add-on using Spectrum Web Components, TypeScript, Adobe MP4 preview renditions, and Twelve Labs Pegasus 1.5. The narrow validation flow returns three timestamped video recommendations and records usefulness feedback; typecheck, packaging, demo analysis, CORS and secret-isolation checks, responsive browser tests, and the production dependency audit pass. A deployed HTTPS API and Adobe's private distribution flow are still required before external testing.
+
+**In progress**
+
+- Birthday Tracker: a live aggregate counter is being added through a database function and Supabase Realtime rather than exposing private birthday rows. The database and browser update path are working locally; final shared-component cleanup and the complete release gate are still in progress.
+- Design system: an illustrated documentation hero is in local visual verification, using a compact generated component-specimen board instead of generic dashboard artwork. Desktop, dark-mode, and mobile balance are being checked before any release.
+- HeartTap: started a code review of the image-loading-cache branch. The proposed diff spans substantially more than caching, so the review is separating cache correctness and private-media key lifecycle risks from unrelated auth, analytics, notification, widget, and CI changes; no new release is claimed.
+
+**What I learned**
+
+- Declaring a design system in project metadata is not enough: scaffolds, dependency rules, generated code, CI, and browser tests all need to enforce the same contract.
+- Operational dashboards become more useful when search, filter state, completeness, and review priority are first-class workflow data rather than extra visual decoration.
+- Cache reviews for private media need to prove key isolation and invalidation behavior, not only faster repeat loads.
+
 ### July 16, 2026
 
 - Design system: shipped the July 16 review-and-docs cleanup pass by merging [#30](https://github.com/Paul-M-Kallarackal/design-system/pull/30), [#32](https://github.com/Paul-M-Kallarackal/design-system/pull/32), and [#33](https://github.com/Paul-M-Kallarackal/design-system/pull/33), covering the day-3 review refinements plus a tighter core-component docs surface.
