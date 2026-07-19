@@ -30,6 +30,23 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 18, 2026
+
+**Shipped**
+
+- [Paul's Portfolio](https://paul.moriatz.com/): merged and deployed the interactive product showcase as the homepage focus, along with navbar and brand-mark polish, route skeleton loading, and reliable scroll-to-top navigation. Production was reverified after release.
+- [Birthday Tracker](https://birthdaytracker.moriatz.com/): shipped the live birthday total to production, then fixed release-auth wiring and tightened the landing stat panel copy and alignment while keeping CI and release checks green.
+- [People Aggregator](https://people.moriatz.com/): shipped two homepage refinements in production: a calmer hero title scale and the shared cursive Moriatz wordmark replacing the generic logo.
+
+**In progress**
+
+- Design system: exploring a faster year-picker flow for far-past dates in the shared DatePicker, likely moving from long scrolling to direct year search and selection. No public release is claimed yet.
+
+**What I learned**
+
+- Small UI changes still need full release verification: auth or environment wiring can fail independently of the product code.
+- Homepage polish lands better when brand marks, title scale, and navigation are treated as one system instead of isolated tweaks.
+
 ### July 17, 2026
 
 **Shipped**
