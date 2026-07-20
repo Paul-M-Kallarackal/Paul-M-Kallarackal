@@ -1,6 +1,6 @@
 # Hi, I'm Paul
 
-Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons won
+Founding Product Engineer at SparrowCRM | I build useful things.
 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
