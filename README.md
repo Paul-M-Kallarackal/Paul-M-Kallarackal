@@ -30,6 +30,18 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 19, 2026
+
+**Shipped**
+
+- Design system: merged a searchable `DatePicker` year selector so far-past dates no longer depend on long scrolling. The release adds direct year search and selection, plus dedicated DatePicker coverage in the quality gate.
+- [HeartTap](https://hearttap.moriatz.com/privacy): deployed a cleaner privacy-page navbar by removing the centered home link, making the HeartTap brand lockup the homepage link, and leaving delete-account as the single explicit action.
+
+**What I learned**
+
+- Century-scale date input needs direct search or jump behavior; a taller scroll region is only a partial fix.
+- Legal and utility pages read better when the navigation is reduced to one brand-home affordance plus the page's primary action.
+
 ### July 18, 2026
 
 **Shipped**
@@ -37,10 +49,6 @@ Chennai and Kerala | Founding Engineer at Stealth-SurveySparrow | 5+ hackathons 
 - [Paul's Portfolio](https://paul.moriatz.com/): merged and deployed the interactive product showcase as the homepage focus, along with navbar and brand-mark polish, route skeleton loading, and reliable scroll-to-top navigation. Production was reverified after release.
 - [Birthday Tracker](https://birthdaytracker.moriatz.com/): shipped the live birthday total to production, then fixed release-auth wiring and tightened the landing stat panel copy and alignment while keeping CI and release checks green.
 - [People Aggregator](https://people.moriatz.com/): shipped two homepage refinements in production: a calmer hero title scale and the shared cursive Moriatz wordmark replacing the generic logo.
-
-**In progress**
-
-- Design system: exploring a faster year-picker flow for far-past dates in the shared DatePicker, likely moving from long scrolling to direct year search and selection. No public release is claimed yet.
 
 **What I learned**
 
