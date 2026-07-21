@@ -46,6 +46,22 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 20, 2026
+
+**Shipped**
+
+- [Paul's Portfolio](https://paul.moriatz.com/): merged [PR #14](https://github.com/Paul-M-Kallarackal/portfolio/pull/14) to tighten the homepage showcase by removing the duplicate VSCD project, renaming the design-system tab to `Design`, and refreshing branding details; then merged [PR #15](https://github.com/Paul-M-Kallarackal/portfolio/pull/15) to add GitHub, Devpost, and LinkedIn navbar links after landing the matching [design-system LinkedIn icon](https://github.com/Paul-M-Kallarackal/design-system/pull/47). Production was reverified after the release.
+- [VSCD](https://vscd.moriatz.com/): finished a July 20 landing-page cleanup train around the shared design system, then merged [PR #22](https://github.com/Paul-M-Kallarackal/VSCD/pull/22) and [PR #23](https://github.com/Paul-M-Kallarackal/VSCD/pull/23) to remove the authenticated public console, add the site favicon, and leave `/console` as a real 404. The final `main` deployment passed and production is live in the simplified public-only state.
+
+**In progress**
+
+- Portfolio: iterating on how the homepage project carousel should frame flagship work versus prototypes. Current naming and hierarchy experiments are local discussion work only; no newer deployment is claimed after the July 20 navbar release.
+
+**What I learned**
+
+- Internal route names are weak public product copy; public navigation should describe the user-facing concept instead of the implementation detail.
+- Shared marketing primitives need live downstream checks after every design-system update, because small navbar or token regressions propagate across product sites quickly.
+
 ### July 19, 2026
 
 **Shipped**
