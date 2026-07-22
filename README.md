@@ -46,6 +46,22 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 21, 2026
+
+**Shipped**
+
+- [Birthday Tracker](https://birthdaytracker.moriatz.com/): merged [PR #15](https://github.com/Paul-M-Kallarackal/birthday-tracker/pull/15) to add production CSV birthday imports with duplicate suppression and a bulk-import flow, then merged [PR #16](https://github.com/Paul-M-Kallarackal/birthday-tracker/pull/16) to remove the temporary production test-birthday seeding path. Production was reverified after both merges and the live site remains up.
+- [Paul's Portfolio](https://paul.moriatz.com/): merged [PR #16](https://github.com/Paul-M-Kallarackal/portfolio/pull/16) to replace the old design-system showcase slot with [Strawn](https://github.com/moriatz-labs/strawn). Production was reverified after the July 21 deploy.
+
+**In progress**
+
+- [Strawn](https://github.com/moriatz-labs/strawn): opened [PR #1](https://github.com/moriatz-labs/strawn/pull/1) for the public design-system split. The repository and review PR are public, but the PR remains open while Vercel GitHub access, deploy-hook wiring, and LinkedIn icon redistribution review are resolved; no public npm release or docs deployment is claimed yet.
+
+**What I learned**
+
+- CSV imports for personal data need atomic server-side writes and formula-safe error reporting; client-side parsing alone is not a safe enough release boundary.
+- Shipping a reusable UI package is also an operations problem: repository access, deploy hooks, publishing credentials, and trademark review can block release after the code is already ready.
+
 ### July 20, 2026
 
 **Shipped**
