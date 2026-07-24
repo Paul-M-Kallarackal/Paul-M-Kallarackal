@@ -46,6 +46,16 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 24, 2026
+
+**Completed locally or ready for review**
+
+- [HeartTap](https://hearttap.moriatz.com/): reorganized the workspace so the product now lives under `HeartTap/application` and `HeartTap/website`, then iterated locally on the Flutter app by redesigning the Settings appearance pickers, removing extra icon borders, and simplifying the home-widget preview copy to “partner name sent a tap.” The updated Settings flow was hot-reloaded on-device and the targeted settings test suite passed. This is local app work only; no Play Store or website deployment is claimed.
+
+**What I learned**
+
+- Android’s add-widget prompt is mostly launcher-controlled. HeartTap can fully theme its real widget and in-app preview, but not the launcher-owned white background, buttons, or layout around the system picker.
+
 ### July 23, 2026
 
 **Completed locally or ready for review**
