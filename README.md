@@ -46,6 +46,29 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 23, 2026
+
+**Completed locally or ready for review**
+
+- Codex tooling: built a local `relocate-codex-sessions` skill to safely retarget moved-project metadata after folder renames. It dry-runs first, creates timestamped backups, covers active and archived sessions, preserves history and IDs, and passed fixture tests plus package validation. It is local-only and not published yet.
+
+**What I learned**
+
+- When agent workspaces store absolute project paths, moving folders becomes an operational migration problem; dry-run-first tooling, exact-path matching, and reversible backups are safer than hand-editing session state.
+
+### July 22, 2026
+
+**Shipped**
+
+- [Strawn](https://github.com/moriatz-labs/strawn): merged [PR #1](https://github.com/moriatz-labs/strawn/pull/1) to launch the public design-system repository, then merged [PR #3](https://github.com/moriatz-labs/strawn/pull/3) to remove the restricted LinkedIn brand asset and [PR #2](https://github.com/moriatz-labs/strawn/pull/2) to cut the first public package release used by downstream apps.
+- [Paul's Portfolio](https://paul.moriatz.com/): merged [PR #17](https://github.com/Paul-M-Kallarackal/portfolio/pull/17) to migrate the site to public Strawn packages. Production was reverified after the July 22 deploy.
+- [Birthday Tracker](https://birthdaytracker.moriatz.com/): merged [PR #17](https://github.com/Paul-M-Kallarackal/birthday-tracker/pull/17) to migrate the production app to public Strawn packages. Production was reverified after the July 22 deploy.
+
+**What I learned**
+
+- A design-system split is not done at repo creation time; the public packages only become real after downstream products migrate and hold in production.
+- Licensing and redistribution checks can change a release train late; even a small brand asset issue can force a package correction before the public surface is safe.
+
 ### July 21, 2026
 
 **Shipped**
