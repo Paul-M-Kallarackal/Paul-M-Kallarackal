@@ -46,6 +46,24 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 25, 2026
+
+**Public repo changes**
+
+- [Birthday Tracker](https://birthdaytracker.moriatz.com/): reverted the public Strawn-package migration in [commit 061785a](https://github.com/Paul-M-Kallarackal/birthday-tracker/commit/061785a20fbfcb35fa8554ed043751858f10d4a0). The public repository and site are reachable, but I have not independently reverified a production deploy from that revert, so this log does not describe it as a confirmed live rollback.
+
+**Completed locally or ready for review**
+
+- [HeartTap](https://hearttap.moriatz.com/): finished a local app pass around Daily Quiz and analytics before the next Android release cut. The quiz surfaces now promote the full prompt instead of truncating it, the legacy Daily Quiz history path was updated to preserve the original question-and-answer copy, and the Weekly Wrapped analytics card was softened toward a near-neutral tinted surface. The targeted Daily Quiz test suite passed. This is local app work only; no Play Store or website deployment is claimed.
+
+**In progress**
+
+- [HeartTap](https://hearttap.moriatz.com/): release prep is active, but no July 25 Play submission is confirmed. The production dry run succeeded and the next Android release version was staged from current source, then the publish thread ended blocked before a confirmed store submission, so the README does not claim a shipped mobile release yet.
+
+**What I learned**
+
+- If a question matters in both the answer flow and later history, it needs to be treated as primary content rather than squeezed into a one-line metadata slot.
+
 ### July 24, 2026
 
 **Completed locally or ready for review**
