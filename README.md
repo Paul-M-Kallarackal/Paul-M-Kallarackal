@@ -46,6 +46,21 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 ## Recent build sessions
 
 <!-- SESSION_LOG_START -->
+### July 26, 2026
+
+**Shipped**
+
+- [HeartTap](https://hearttap.moriatz.com/): published the quiz-first website redesign in [PR #9](https://github.com/Paul-M-Kallarackal/hearttap-website/pull/9) and [merge commit `a27c087`](https://github.com/Paul-M-Kallarackal/hearttap-website/commit/a27c087bedd789624ca777f1d560d744729b8dc6). The live site now opens with a three-question chibi quiz journey instead of the earlier feature-card homepage, and the production domain was rechecked after the new deployment alias was corrected.
+- [Heart Tap on Google Play](https://play.google.com/store/apps/details?id=com.moriatz.hearttap&hl=en_US&gl=US): refreshed the public store listing around the quiz-and-reveal loop. The public page now shows the updated quiz-first description and a `Jul 26, 2026` update date, which matches the committed listing refresh.
+
+**In progress**
+
+- [HeartTap](https://hearttap.moriatz.com/): the next Android app release is still not claimed as shipped. A fresh local APK and the supporting release-prep pass were completed in the parallel mobile thread, but that work ended without a confirmed Play app submission for the new build.
+
+**What I learned**
+
+- “Private pings” is too abstract as a product story; the stronger loop is the moment when your partner answers and you reopen the app to reveal it.
+
 ### July 25, 2026
 
 **Public repo changes**
