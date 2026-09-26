@@ -30,6 +30,12 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 
 ## Current projects
 
+- [Skillet](https://github.com/Paul-M-Kallarackal/skillet) - Local skill manager for AI coding agents: find, edit, and reuse skills across projects and agents.
+- [Strawn](https://strawn.moriatz.com/font) - Original variable typeface with tapered, toothpick-inspired letterforms.
+- [Bachy](https://github.com/Paul-M-Kallarackal/Bachy) - Experimental keyboard-first file manager for CachyOS and Hyprland, forked from Flea without Omarchy runtime dependencies.
+
+## Legacy work
+
 - [Birthday Tracker](https://github.com/Paul-M-Kallarackal/birthday-tracker) - Private birthday tracker with magic-link access and a daily email digest.
 - [Paul's Design System](https://github.com/Paul-M-Kallarackal/design-system) - Reusable components, themes, patterns, quality gates, and documentation shared across my web projects.
 - [People Aggregator](https://people.moriatz.com/) - Evidence-backed people dashboard and enrichment pipeline.
@@ -42,8 +48,6 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 - [Carbo](https://github.com/Paul-M-Kallarackal/Carbo) - Logitech MX Master 4 plugin with AI commands, founder workflows, and haptic time tracking.
 - [FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen) - Terminal CLI for AI wallpaper generation using Gemini and Flux.
 - [LAR](https://lma.moriatz.com/) - Loan document automation with voice AI and compliance checks.
-
-## Legacy work
 
 - [Entia](https://devpost.com/software/tse) - Adobe Express add-on for video analytics.
 - [LitFlow](https://devpost.com/software/litflow) - AI literature review research and analysis.
