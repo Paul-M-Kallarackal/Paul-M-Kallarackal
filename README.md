@@ -38,6 +38,7 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 
 ## Legacy work
 
+- [HeartTap](https://hearttap.moriatz.com/) - Private Flutter product and Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets.
 - [Paul's Design System](https://github.com/Paul-M-Kallarackal/design-system) - Reusable components, themes, patterns, quality gates, and documentation shared across my web projects.
 - [People Aggregator](https://people.moriatz.com/) - Evidence-backed people dashboard and enrichment pipeline.
 - Children Stories Agent - WhatsApp-routed OpenClaw agent for a private family group that plans stories, remembers characters and visual style, generates illustrations, and sends finished images back to WhatsApp.
