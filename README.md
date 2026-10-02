@@ -2,6 +2,8 @@
 
 Founding Product Engineer at SparrowCRM | I build useful things.
 
+[Portfolio](https://paul.moriatz.com/)
+
 ### Tools I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -36,16 +38,10 @@ Founding Product Engineer at SparrowCRM | I build useful things.
 
 ## Legacy work
 
-- [Birthday Tracker](https://github.com/Paul-M-Kallarackal/birthday-tracker) - Private birthday tracker with magic-link access and a daily email digest.
 - [Paul's Design System](https://github.com/Paul-M-Kallarackal/design-system) - Reusable components, themes, patterns, quality gates, and documentation shared across my web projects.
 - [People Aggregator](https://people.moriatz.com/) - Evidence-backed people dashboard and enrichment pipeline.
-- [Paul's Portfolio](https://paul.moriatz.com/) - My portfolio and writing, built from a reusable design system and deployed on Vercel. [Source](https://github.com/Paul-M-Kallarackal/portfolio).
-- PaulClaw / HeartTap Discord Ops - Discord-routed OpenClaw agent for inspecting Flutter themes, generating visual swatches, and returning product and debugging feedback.
-- [HeartTap](https://hearttap.moriatz.com/) - Private Flutter product and Play Store-track lab for emotional UX, privacy, retention, pings, themes, and home-screen widgets. [Website source](https://github.com/Paul-M-Kallarackal/hearttap-website).
 - Children Stories Agent - WhatsApp-routed OpenClaw agent for a private family group that plans stories, remembers characters and visual style, generates illustrations, and sends finished images back to WhatsApp.
 - [BlueBlood](https://github.com/Paul-M-Kallarackal/BlueBlood) - Daily Product Hunt scout that classifies launches by workspace context and delivers them through WhatsApp and OpenClaw.
-- [Jam Projects Showcase](https://github.com/Paul-M-Kallarackal/jam-projects-showcase) - Daily-updated builder directory sourced from Discord, built with Next.js, Supabase, and shadcn/ui.
-- [Carbo](https://github.com/Paul-M-Kallarackal/Carbo) - Logitech MX Master 4 plugin with AI commands, founder workflows, and haptic time tracking.
 - [FluxGen](https://github.com/Paul-M-Kallarackal/FluxGen) - Terminal CLI for AI wallpaper generation using Gemini and Flux.
 - [LAR](https://lma.moriatz.com/) - Loan document automation with voice AI and compliance checks.
 
